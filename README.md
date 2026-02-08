@@ -2,6 +2,24 @@
 
 A REST API for managing student course enrollments built with Python + FastAPI, PostgreSQL, and SQLAlchemy ORM.
 
+## 📋 Table of Contents
+
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Setup Instructions](#setup-instructions)
+- [API Endpoints](#api-endpoints)
+- [Example Usage](#example-usage)
+- [Business Rules Validation](#business-rules-validation)
+- [Testing](#testing)
+- [Database Schema](#database-schema)
+- [Development](#development)
+- [Deployment](#deployment)
+- [Development Journey & Lessons Learned](#development-journey--lessons-learned)
+- [License](#license)
+- [Support](#support)
+- [Acknowledgments](#acknowledgments)
+
 ## Features
 
 - **Students Management**: Create, read, update, and delete students
